@@ -11,9 +11,12 @@ With some employees having multiple titles within the company given their years 
 
 <br>
 
-insert retirement titles image
+<div align="center"> 
+
+![image](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/retirement_titles.PNG)
 
 
+</div>
 </br>
 
 Here we can see that a total of __90,398__ employees have retired (_based on their to_date_) or will be retiring (_only for current employees_) soon.
@@ -25,14 +28,21 @@ For a retiring employtee to be eligible for mentorship, we have set our paramete
 
 <div align="center"> 
 
-![alt-text-1](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_old.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/ths_nans.PNG) 
+![alt-text-1](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/mentor_titles.PNG) ![alt-text-2](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/mentor_count.PNG) 
 
 </div>
 
 ## __Summary__
 If we are only to consider current retiring employees (birth years are from 1952-1955 & to_date = '9999'-01-01), there will exactly be __72,458__ positions needed to be filled. With only __1,549__ available mentors, it has a ratio of only __2%__. This will not be enough to jumpstart the company's mentorship program. 
 
-It is highly recommended to increase the range of our mentors' birth years to help the transition. See image below for additional queries done:
+__It is highly recommended to increase the range of our mentors' birth years to help the transition.__ <br> See image below for additional queries done:
 
-insert addtl qury image
+<div align="center"> 
+
+![alt-text-1](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/retiring_current_emp_head.PNG) 
+![alt-text-2](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/retiring_current_emp_count.PNG) 
+
+
+
+![image](https://raw.githubusercontent.com/RobC30/Pewlett-Hackard-Analysis/main/Resources/addtl_query.PNG)
 
